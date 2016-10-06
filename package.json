@@ -1,0 +1,27 @@
+{
+  "name": "skelleton-data-validation",
+  "version": "1.0.0",
+  "description": "Form and Data Validation.  Works independently or with services like Express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeycaughey/skelleton-data-validation.git"
+  },
+  "keywords": [
+    "node",
+    "data",
+    "validation",
+    "form",
+    "validation",
+    "express"
+  ],
+  "author": "Joey Caughey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeycaughey/skelleton-data-validation/issues"
+  },
+  "homepage": "https://github.com/joeycaughey/skelleton-data-validation#readme"
+}
