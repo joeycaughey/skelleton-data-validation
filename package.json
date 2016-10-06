@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/joeycaughey/skelleton-data-validation/issues"
   },
-  "homepage": "https://github.com/joeycaughey/skelleton-data-validation#readme"
+  "homepage": "https://github.com/joeycaughey/skelleton-data-validation#readme",
+  "dependencies": {
+    "regex": "^0.1.1"
+  }
 }
