@@ -1,5 +1,8 @@
 # skelleton-data-validation
-Node.js / Javascript form and data Validation.  Works independently or with services like Express.
+Node.js / Javascript form and data Validationfor backend services.  Works independently or with services like Express.
+
+For front end form validation check out:
+https://github.com/joeycaughey/jquery.forms
 
 
 Initialize the validator.
